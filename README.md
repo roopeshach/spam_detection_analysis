@@ -76,5 +76,3 @@ The project successfully demonstrated the capabilities of various machine learni
 - Hopkins, Mark, Reeber, Erik, Forman, George, and Suermondt, Jaap. (1999). Spambase. UCI Machine Learning Repository. [https://doi.org/10.24432/C53G6X](https://doi.org/10.24432/C53G6X).
 
 ---
-
-You can use this updated README as a base and modify it according to the specific details of your "Spam Detection Analysis" project.
